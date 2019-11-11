@@ -1,7 +1,7 @@
 from django.db import models
 
 
-class EventManager(models.Manager):
+class EventManager(models.Model):
     pass
 
 
